@@ -1,0 +1,253 @@
+*
+{
+	padding: 0;
+	margin: 0;
+}
+.container
+{
+	height: auto;
+	width:100%;
+	margin: auto;
+}
+.bg
+{
+	height: 100vh;
+	width: 100%;
+	background: url('img/header-bg.jpg');
+	background-size: cover;
+	background-attachment: fixed;
+    opacity: 0.8;
+}
+.text
+{
+	height: 300px;
+	width: 600px;
+	position: relative;
+	left: 200px;
+	top: 220px;
+	font-size: 24px;
+	font-style: normal;
+}
+.menu
+{
+	height: 100px;
+	width: 100%;
+	display: flex;
+}
+.menu ul
+{
+	width: 500px;
+	display: flex;
+	position: relative;
+	top: 15px;
+	left: 700px;
+	float: right;
+}
+.menu a
+{
+	text-decoration: none;
+	text-align: center;
+}
+.menu li
+{
+	padding: 15px;
+	margin-left: 15px;
+	color: black;
+	list-style: none;	
+}
+.Freelancer
+{
+    width: 100px;
+	padding: 30px;
+	position: relative;
+	left: 200px;
+	background: #ff0000;
+	text-align: right;
+	border-bottom-left-radius:5px; 
+	border-bottom-right-radius:5px;
+	color: white;
+}
+.Freelancer h2
+{
+	margin-top: 10px;
+}
+.read
+{
+	width: 150px;
+	height: 80px;
+	position: relative;
+	top: 60px;
+	background: #ea0000;
+	color: white;
+	font-size: 17px;
+	border-radius: 5px;
+}
+.read h1
+{
+	
+	position: relative;
+	top: 20px;
+	color: white;
+	text-align: center;
+}
+.about
+{
+	height: 300px;
+	width: 100%;
+	display: flex;
+	position: relative;
+	top: 50px;
+}
+.left-box
+{
+	height: 300px;
+	width: 400px;
+	position: relative;
+	left: 100px;
+	text-align: left;
+}
+.center-box
+{
+	height: 300px;
+	width: 400px;
+	position: relative;
+	left: 100px;
+	text-align: left;
+}
+.right-box
+{
+    height: 300px;
+    width: 400px;
+    position: relative;
+    left: 130px;
+}
+.more
+{
+	color: red;
+	position: relative;
+	top: 15px;
+	text-decoration: none;
+}
+.portfolio
+{
+	height: 450px;
+	width: 100%;
+	display: flex;
+	position: relative;
+	top: 80px;
+}
+.image
+{
+	height: 300px;
+	width: 500px;
+	position: relative;
+	left: 100px;
+	background: url('../../freelancer-guide-template/assets/images/computer.png');
+	background-size: cover;
+}
+.about-port
+{
+	height: 500px;
+	width: 350px;
+	position: relative;
+    left: 300px;
+	float: right;
+	
+}
+h1
+{
+	font-size: 25px;
+	color: #2a2a2a;
+	text-decoration: none;
+}
+p
+{
+	font-size: 18px;
+	color: #878582;
+}
+span
+{
+	color: #000000;
+}
+.our-team
+{
+	height: 100px;
+	width: 100%;
+	position: relative;
+	left: 150px;
+	top: 80px;
+}
+.team
+{
+	height: 300px;
+	width: 100%;
+	display: flex;
+	position: relative;
+	top: 100px;
+}
+.box1
+{
+	height: 130px;
+	width: 400px;
+	position: relative;
+	left: 150px;
+	display: flex;
+}
+.box2
+{
+	height: 130px;
+	width: 400px;
+	position: relative;
+	left: 250px;
+	display: flex;
+}
+.box3
+{
+	height: 130px;
+	width: 400px;
+	position: relative;
+	left: 300px;
+	display: flex;
+}
+.team img
+{
+	margin-left: auto;
+}
+.team h1
+{
+	margin-right: auto;
+}
+.team h3
+{
+	margin-right: auto;
+	color: red;
+}
+.team p
+{
+	margin-right: auto;
+}
+.more-end
+{
+	height: 100px;
+	width: 100%;
+	position: relative;
+	top: 100px;
+}
+.more2
+{
+	float: right;
+	position: relative;
+	right: 100px;
+	color: red;
+}
+
+
+
+
+
+
+
+
+
+
+
